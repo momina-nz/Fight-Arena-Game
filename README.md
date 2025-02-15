@@ -106,6 +106,3 @@ Creature 1 wins!
 - The program **does not** require external libraries beyond standard C++.
 - No unnecessary prompts—just raw combat simulation.
 - Uses **OOP principles** with **inheritance (Race, Profession)** and **polymorphism**.
-
-## License
-This project is open-source and available for educational purposes. Feel free to modify and extend it!
